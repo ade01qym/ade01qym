@@ -12,12 +12,12 @@ improving my programming skills.
 ## 🌱 Currently Learning
 - HTML and CSS
 - JavaScript
-- C Programming
+- C  & python Programming
 - Artificial Intelligence and Machine Learning
 
 ## 🛠️ Skills
 - **Web Development:** HTML, CSS, JavaScript
-- **Programming:** C
+- **Programming:** C python
 - **Interests:** AI, ML, Chatbots, Creative AI
 - **Tools:** Git and GitHub
 
