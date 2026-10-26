@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**ade01qym/ade01qym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Adeeba 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BCA (AI) Student | Aspiring AI & Web Developer
+
+I'm a student exploring Artificial Intelligence, Machine Learning,
+and Web Development. I'm learning by building projects and
+improving my programming skills.
+
+## 🌱 Currently Learning
+- HTML and CSS
+- JavaScript
+- C Programming
+- Artificial Intelligence and Machine Learning
+
+## 🛠️ Skills
+- **Web Development:** HTML, CSS, JavaScript
+- **Programming:** C
+- **Interests:** AI, ML, Chatbots, Creative AI
+- **Tools:** Git and GitHub
+
+## 🚀 Goals
+- Build responsive websites
+- Create beginner-friendly AI projects
+- Improve my problem-solving skills
+- Build a portfolio for freelance opportunities
+
+## 📂 My Projects
+Projects coming soon! Stay tuned as I build and share my work.
+
+## 🤝 Let's Connect
+- GitHub: [@ade01qym](https://github.com/ade01qym)
+
+---
+
+⭐ Thanks for visiting my profile!
+
